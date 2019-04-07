@@ -1,0 +1,1059 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "pageType": [],
+        "searchTerm": "samsung",
+        "suggestions": [],
+        "correctedSearchResponses": [],
+        "ageRestricted": false,
+        "products": [
+            {
+                "id": "MTA-2580351",
+                "sku": "GRS-60045-00086",
+                "status": "AVAILABLE",
+                "name": "Samsung Galaxy Watch S4 Smartwatch [42 mm]",
+                "price": {
+                    "priceDisplay": "Rp 4.088.000 - Rp 4.500.000",
+                    "discount": 0,
+                    "minPrice": 4088000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//88/MTA-2580351/samsung_samsung-galaxy-watch-s4-42mm-smartwatch_full21.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 129
+                },
+                "otherOfferings": {
+                    "count": 29,
+                    "startPrice": "Rp 3.999.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 52,
+                "defaultSku": "GRS-60045-00086-00001",
+                "itemSku": "GRS-60045-00086-00001",
+                "tags": [
+                    "NEW",
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-2580351",
+                "url": "/p/samsung-galaxy-watch-s4-smartwatch-42-mm/pc--MTA-2580351?ds=GRS-60045-00086-00001",
+                "attributes": [
+                    {
+                        "optionListingType": "COLOR_PALETE",
+                        "values": [
+                            "#FFC0CB",
+                            "#000000"
+                        ]
+                    }
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-2207812",
+                "sku": "TEC-60021-00213",
+                "status": "AVAILABLE",
+                "name": "Samsung Galaxy A6+ Smartphone [32 GB/4 GB]",
+                "price": {
+                    "priceDisplay": "Rp 3.297.999 - Rp 3.298.888",
+                    "discount": 0,
+                    "minPrice": 3297999
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-2207812/samsung_samsung-galaxy-a6--smartphone--32-gb-4-gb-_full19.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 2243
+                },
+                "otherOfferings": {
+                    "count": 35,
+                    "startPrice": "Rp 3.145.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 61,
+                "defaultSku": "TEC-60021-00213-00002",
+                "itemSku": "TEC-60021-00213-00002",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-2207812",
+                "url": "/p/samsung-galaxy-a6-smartphone-32-gb-4-gb/pc--MTA-2207812?ds=TEC-60021-00213-00002",
+                "attributes": [
+                    {
+                        "optionListingType": "COLOR_PALETE",
+                        "values": [
+                            "#FFFF00",
+                            "#0000FF",
+                            "#000000"
+                        ]
+                    }
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-2117957",
+                "sku": "INL-60035-00040",
+                "status": "AVAILABLE",
+                "name": "Samsung Galaxy J2 Prime Refresh Smartphone - Absolute Black [8GB/1.5GB]",
+                "price": {
+                    "priceDisplay": "Rp 1.299.000",
+                    "strikeThroughPriceDisplay": "Rp 1.399.000",
+                    "discount": 7,
+                    "minPrice": 1299000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/MTA-2117957/samsung_samsung-galaxy-j2-prime-refresh-smartphone---absolute-black--8gb-1-5gb-_full07.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 9922
+                },
+                "otherOfferings": {
+                    "count": 2,
+                    "startPrice": "Rp 1.289.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 3,
+                "defaultSku": "INL-60035-00040-00001",
+                "itemSku": "INL-60035-00040-00001",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR",
+                    "BLIBLI_SHIPPING"
+                ],
+                "formattedId": "pc--MTA-2117957",
+                "url": "/p/samsung-galaxy-j2-prime-refresh-smartphone-absolute-black-8gb-1-5gb/pc--MTA-2117957?ds=INL-60035-00040-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-1239062",
+                "sku": "SCK-60023-00055",
+                "status": "AVAILABLE",
+                "name": "Samsung RT19M300BGS-SE Kulkas 2 Pintu [Khusus Jabodetabek]",
+                "price": {
+                    "priceDisplay": "Rp 3.398.000",
+                    "strikeThroughPriceDisplay": "Rp 4.000.000",
+                    "discount": 15,
+                    "minPrice": 3398000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//87/MTA-1239062/samsung_samsung-rt19m300bgs-se-kulkas-lemari-es-2-pintu---khusus-jabodetabek_full02.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54650",
+                    "name": "Peralatan Elektronik"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 4
+                },
+                "otherOfferings": {
+                    "count": 5,
+                    "startPrice": "Rp 2.799.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 6,
+                "defaultSku": "SCK-60023-00055-00001",
+                "itemSku": "SCK-60023-00055-00001",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "BIG_PRODUCT"
+                ],
+                "formattedId": "pc--MTA-1239062",
+                "url": "/p/samsung-rt19m300bgs-se-kulkas-2-pintu-khusus-jabodetabek/pc--MTA-1239062?ds=SCK-60023-00055-00001",
+                "attributes": [
+                    {
+                        "optionListingType": "COLOR_PALETE",
+                        "values": [
+                            "#808080"
+                        ]
+                    }
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-0275474",
+                "sku": "SMG-53616-00087",
+                "status": "AVAILABLE",
+                "name": "Samsung Galaxy J3 2016 Smartphone - Gold [8 GB]",
+                "price": {
+                    "priceDisplay": "Rp 1.750.000",
+                    "discount": 0,
+                    "minPrice": 1750000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-galaxy-j3-2016-smartphone---gold--8-gb-_full04.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 47
+                },
+                "otherOfferings": {
+                    "count": 8,
+                    "startPrice": "Rp 1.633.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 9,
+                "defaultSku": "SMG-53616-00087-00001",
+                "itemSku": "SMG-53616-00087-00001",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-0275474",
+                "url": "/p/samsung-galaxy-j3-2016-smartphone-gold-8-gb/pc--MTA-0275474?ds=SMG-53616-00087-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-0275462",
+                "sku": "INP-29345-00011",
+                "status": "AVAILABLE",
+                "name": "Samsung Galaxy J3 2016 Smartphone - Black [8 GB]",
+                "price": {
+                    "priceDisplay": "Rp 1.700.000",
+                    "discount": 0,
+                    "minPrice": 1700000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-galaxy-j3-2016-smartphone---black--8-gb-_full04.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 22
+                },
+                "itemCount": 1,
+                "defaultSku": "INP-29345-00011-00001",
+                "itemSku": "INP-29345-00011-00001",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-0275462",
+                "url": "/p/samsung-galaxy-j3-2016-smartphone-black-8-gb/pc--MTA-0275462?ds=INP-29345-00011-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-0209502",
+                "sku": "INL-60028-00041",
+                "status": "AVAILABLE",
+                "name": "Samsung J3 SM-J320 Smartphone - Gold [8 GB]",
+                "price": {
+                    "priceDisplay": "Rp 1.497.000",
+                    "strikeThroughPriceDisplay": "Rp 3.000.000",
+                    "discount": 50,
+                    "minPrice": 1497000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-j3-sm-j320-smartphone---gold--8-gb-_full04.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 215
+                },
+                "itemCount": 1,
+                "defaultSku": "INL-60028-00041-00001",
+                "itemSku": "INL-60028-00041-00001",
+                "tags": [
+                    "ZERO_PERCENT_INSTALLMENT",
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-0209502",
+                "url": "/p/samsung-j3-sm-j320-smartphone-gold-8-gb/pc--MTA-0209502?ds=INL-60028-00041-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "ATJ-32604-04271",
+                "sku": "ATJ-32604-04271",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 87.520",
+                    "discount": 0,
+                    "minPrice": 87520
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "ATJ-32604-04271-00001",
+                "itemSku": "ATJ-32604-04271-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--ATJ-32604-04271",
+                "url": "/p/samsung-charger-samsung-tab/ps--ATJ-32604-04271?ds=ATJ-32604-04271-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "MTA-0207421",
+                "sku": "SHA-60036-00021",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 64.000",
+                    "strikeThroughPriceDisplay": "Rp 200.000",
+                    "discount": 68,
+                    "minPrice": 64000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 4,
+                    "count": 8
+                },
+                "otherOfferings": {
+                    "count": 45,
+                    "startPrice": "Rp 51.000",
+                    "allOfferPageUrl": ""
+                },
+                "itemCount": 46,
+                "defaultSku": "SHA-60036-00021-00001",
+                "itemSku": "SHA-60036-00021-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "pc--MTA-0207421",
+                "url": "/p/samsung-charger-for-samsung-tab/pc--MTA-0207421?ds=SHA-60036-00021-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02394",
+                "sku": "RYG-60021-02394",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02394-00001",
+                "itemSku": "RYG-60021-02394-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02394",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02394?ds=RYG-60021-02394-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02422",
+                "sku": "RYG-60021-02422",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02422-00001",
+                "itemSku": "RYG-60021-02422-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02422",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02422?ds=RYG-60021-02422-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02377",
+                "sku": "RYG-60021-02377",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02377-00001",
+                "itemSku": "RYG-60021-02377-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02377",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02377?ds=RYG-60021-02377-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "SAO-60036-03634",
+                "sku": "SAO-60036-03634",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 80.000",
+                    "strikeThroughPriceDisplay": "Rp 150.000",
+                    "discount": 46,
+                    "minPrice": 80000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "SAO-60036-03634-00001",
+                "itemSku": "SAO-60036-03634-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--SAO-60036-03634",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--SAO-60036-03634?ds=SAO-60036-03634-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02457",
+                "sku": "RYG-60021-02457",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02457-00001",
+                "itemSku": "RYG-60021-02457-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02457",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02457?ds=RYG-60021-02457-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RAG-60029-03400",
+                "sku": "RAG-60029-03400",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 87.999",
+                    "strikeThroughPriceDisplay": "Rp 179.000",
+                    "discount": 50,
+                    "minPrice": 87999
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RAG-60029-03400-00001",
+                "itemSku": "RAG-60029-03400-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RAG-60029-03400",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RAG-60029-03400?ds=RAG-60029-03400-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "SAO-60036-03637",
+                "sku": "SAO-60036-03637",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 80.000",
+                    "strikeThroughPriceDisplay": "Rp 150.000",
+                    "discount": 46,
+                    "minPrice": 80000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "SAO-60036-03637-00001",
+                "itemSku": "SAO-60036-03637-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--SAO-60036-03637",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--SAO-60036-03637?ds=SAO-60036-03637-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02176",
+                "sku": "RYG-60021-02176",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 210.000",
+                    "discount": 57,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02176-00001",
+                "itemSku": "RYG-60021-02176-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02176",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02176?ds=RYG-60021-02176-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "TOK-60041-00016",
+                "sku": "TOK-60041-00016",
+                "status": "AVAILABLE",
+                "name": "Charger Samsung for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 115.000",
+                    "discount": 0,
+                    "minPrice": 115000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "TOK-60041-00016-00001",
+                "itemSku": "TOK-60041-00016-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--TOK-60041-00016",
+                "url": "/p/charger-samsung-for-samsung-tab/ps--TOK-60041-00016?ds=TOK-60041-00016-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "OPS-60040-06696",
+                "sku": "OPS-60040-06696",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 100.000",
+                    "strikeThroughPriceDisplay": "Rp 250.000",
+                    "discount": 60,
+                    "minPrice": 100000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "OPS-60040-06696-00001",
+                "itemSku": "OPS-60040-06696-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--OPS-60040-06696",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--OPS-60040-06696?ds=OPS-60040-06696-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "OPS-60040-06710",
+                "sku": "OPS-60040-06710",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 100.000",
+                    "strikeThroughPriceDisplay": "Rp 250.000",
+                    "discount": 60,
+                    "minPrice": 100000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "OPS-60040-06710-00001",
+                "itemSku": "OPS-60040-06710-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--OPS-60040-06710",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--OPS-60040-06710?ds=OPS-60040-06710-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02425",
+                "sku": "RYG-60021-02425",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02425-00001",
+                "itemSku": "RYG-60021-02425-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02425",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02425?ds=RYG-60021-02425-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "SAO-60036-03645",
+                "sku": "SAO-60036-03645",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 80.000",
+                    "strikeThroughPriceDisplay": "Rp 150.000",
+                    "discount": 46,
+                    "minPrice": 80000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "SAO-60036-03645-00001",
+                "itemSku": "SAO-60036-03645-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--SAO-60036-03645",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--SAO-60036-03645?ds=SAO-60036-03645-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02435",
+                "sku": "RYG-60021-02435",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02435-00001",
+                "itemSku": "RYG-60021-02435-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02435",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02435?ds=RYG-60021-02435-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            },
+            {
+                "id": "RYG-60021-02399",
+                "sku": "RYG-60021-02399",
+                "status": "AVAILABLE",
+                "name": "Samsung Charger for Samsung TAB",
+                "price": {
+                    "priceDisplay": "Rp 90.000",
+                    "strikeThroughPriceDisplay": "Rp 145.000",
+                    "discount": 37,
+                    "minPrice": 90000
+                },
+                "images": [
+                    "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/samsung_samsung-charger-for-samsung-tab_full03.jpg"
+                ],
+                "rootCategory": {
+                    "id": "54593",
+                    "name": "Handphone & Tablet"
+                },
+                "brand": "Samsung",
+                "review": {
+                    "rating": 0,
+                    "count": 0
+                },
+                "itemCount": 1,
+                "defaultSku": "RYG-60021-02399-00001",
+                "itemSku": "RYG-60021-02399-00001",
+                "tags": [
+                    "REGULAR"
+                ],
+                "formattedId": "ps--RYG-60021-02399",
+                "url": "/p/samsung-charger-for-samsung-tab/ps--RYG-60021-02399?ds=RYG-60021-02399-00001",
+                "attributes": [
+                    {}
+                ],
+                "storeClosingInfo": {
+                    "storeClosed": false,
+                    "endDate": 0,
+                    "delayShipping": false
+                },
+                "promoEndTime": 0
+            }
+        ],
+        "sorting": {},
+        "filters": [],
+        "paging": {
+            "page": 1,
+            "total_page": 20,
+            "item_per_page": 24,
+            "total_item": 119016
+        },
+        "maxOffers": 50,
+        "serverCurrentTime": 1551421635610,
+        "redirectionUrl": "",
+        "intentAttributes": {},
+        "intentApplied": false,
+        "showAllCategories": false,
+        "searchPageUrl": ""
+    }
+}
